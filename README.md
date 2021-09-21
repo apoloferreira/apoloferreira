@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+  <a href="https://www.linkedin.com/in/apolo-ferreira-santos-1860a6b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 ## 🚀 About Me
 I've always been passionate about everything that 
 involves process automation. 
@@ -10,8 +12,6 @@ I'll share a little bit of what was important in my
 learning trajectory, mainly in the areas of Data Science and Machine Learning.
 
   # A list of learning resources for Data Science
-
-
 
 This file contains a list with some of the contents that contributed to my 
 learning in programming, Automation, Data Science, Machine Learning, 
