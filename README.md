@@ -89,12 +89,17 @@ as well as projects that I am developing at the moment.
 - [x] Contratos Inteligentes: Programação Solidty para Etherium
 - [x] Formação Engenheiro de Blockchain: O Curso Completo!
 - [x] Blockchain: o que todos devem saber
-
+- [ ] Deploy Machine Learning Models on GCP + AWS Lambda (Docker)
+- [ ] 20+ End-To-End Machine Learning Projects & Deployment 2021
+- [ ] Curso de HTML 5 Completo e com Projetos Práticos para WEB
+- [ ] FastAPI Full Stack Web Development (API + Webapp)
 
 ## Tools for Deploy
 - Heroku
 - Streamlit
 - Ploty and Dash Dashboards
+- Flask
+- FastAPI
 - Html and Css
 
 ## Cloud Computer AWS
