@@ -128,8 +128,9 @@ as well as projects that I am developing at the moment.
 - [x] Keras
 
 ## Books :green_book:
-O'Reilly - Aurélien Géron
+O'Reilly
 - [x] Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow (2nd Edition)
+- [ ] Data Science on AWS - Implementing End-to-End, Continuos AI and Machine Learning Pipelines
 
 ## Data Science Techniques
 - Feature Selection
