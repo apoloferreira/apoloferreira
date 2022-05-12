@@ -25,11 +25,7 @@ as well as projects that I am developing at the moment.
 - Python
 - C#
 - C++
-- JavaScript
 - SQL
-- Go
-- Solidity
-- html
 ...
 
   
@@ -98,18 +94,13 @@ as well as projects that I am developing at the moment.
 - Heroku
 - Streamlit
 - Ploty and Dash Dashboards
-- Flask
 - FastAPI
-- Html and Css
 
 ## Cloud Computer AWS
 - EC2
 - S3
 - RDS
 - SageMaker
-- Route 53
-- Elastic Balancing
-- CloundFront
 - Glue
 - Lambda
 
