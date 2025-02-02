@@ -5,8 +5,6 @@
 ## 🚀 About Me
 I've always been passionate about everything that 
 involves process automation. 
-As a child I took my toys apart to see how they worked. 
-My leisure hours are filled with technology channels and pages.
 
 
 ## Academic Training
